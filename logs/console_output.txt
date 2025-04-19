@@ -1,0 +1,5 @@
+===== Student Information System =====
+1. Add Student
+2. Enroll Student
+Enter your choice: 1
+--> Student Aman Patel added successfully.
